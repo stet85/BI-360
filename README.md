@@ -1,6 +1,6 @@
 ## BI360 Project in Power BI
-## Link to Interactive view: https://app.powerbi.com/view?r=eyJrIjoiNDNjZjljZDYtMTY5Yi00OTQxLTgxYTktOGU1MGM1ZjI4NTUzIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
-This repository contains resources and documentation related to the execution of a BI360 project using Power BI.
+- **Link to Interactive view:**
+https://app.powerbi.com/view?r=eyJrIjoiNDNjZjljZDYtMTY5Yi00OTQxLTgxYTktOGU1MGM1ZjI4NTUzIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 
 - **Project Overview**
 The project aims to demonstrate proficiency in the following areas:
